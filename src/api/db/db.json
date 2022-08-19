@@ -1,0 +1,80 @@
+{
+  "navigation": [
+    {
+      "id": 1,
+      "title": "",
+      "link": "",
+      "created_at": "",
+      "updated_at": ""
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "",
+      "link": "",
+      "created_at": "",
+      "updated_at": ""
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "",
+      "description": "",
+      "price": "",
+      "count": "",
+      "link": "",
+      "category_id": "",
+      "created_at": "",
+      "updated_at": ""
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "title": "",
+      "access_id": 1
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "user_id": "",
+      "products": [],
+      "created_at": "",
+      "updated_at": ""
+    }
+  ],
+  "favorites": [
+    {
+      "id": 1,
+      "user_id": "",
+      "products": [],
+      "created_at": "",
+      "updated_at": ""
+    }
+  ],
+  "baskets": [
+    {
+      "id": 1,
+      "user_id": "",
+      "products": [],
+      "created_at": "",
+      "updated_at": ""
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "role_id": 1,
+      "name": "Admin",
+      "surname": "Admin",
+      "email": "admin@gmail.com",
+      "phone": "",
+      "password": "",
+      "created_at": "",
+      "updated_at": ""
+    }
+  ]
+}
